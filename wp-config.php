@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * A configuração de base do WordPress
  *
