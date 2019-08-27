@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "God Hates a Coward PT Menu",
+    "name": "God Hates a Coward EN Menu",
     "currentPage": "Home.html",
     "theme": {
       "name": "mobirise4",
@@ -9,9 +9,9 @@
         "primaryColor": "#ffffff",
         "secondaryColor": "#000000",
         "successColor": "#ffffff",
-        "infoColor": "#82786E",
-        "warningColor": "#879A9F",
-        "dangerColor": "#B1A374",
+        "infoColor": "#82786e",
+        "warningColor": "#879a9f",
+        "dangerColor": "#ff3366",
         "mainFont": "Rubik",
         "display1Font": "Rubik",
         "display1Size": "5",
@@ -39,7 +39,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 38,
+    "uniqCompNum": 68,
     "versionPublish": "4.10.7",
     "favicon": "",
     "noImageResize": "",
