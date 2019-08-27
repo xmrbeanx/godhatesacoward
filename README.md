@@ -1,2 +1,0 @@
-# godhatesacoward
-GHC webpage
